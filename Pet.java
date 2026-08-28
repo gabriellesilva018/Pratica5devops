@@ -15,7 +15,7 @@ public class Pet {
         this.nome = nome;
         this.especie = especie;
         this.idade = idade;
-        this.ValorSevico = ValorServico;
+        this.ValorServico = ValorServico;
 
     }
 
