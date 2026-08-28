@@ -11,7 +11,7 @@ public class Pet {
 
     // CRIA O CONSTRUTOR
 
-    public Livro(String nome, String especie, int idade, double ValorSevico ){
+    public Pet(String nome, String especie, int idade, double ValorSevico ){
         this.titulo = nome;
         this.autor = especie;
         this.preco = idade;
