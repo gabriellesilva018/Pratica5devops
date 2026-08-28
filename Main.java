@@ -11,16 +11,16 @@ public class Main {
         Pet pet3 = new Pet("Tempestade", "Cavalo",7, 300.00);
 
         System.out.println("\n pet1");
-        livro1.exibirInformacoes();
+        pet1.exibirInformacoes();
         System.out.println("Valor do Serviço R$: " + pet1.calcularComDesconto());
 
 
         System.out.println("\n pet2");
-        livro1.exibirInformacoes();
+        pet2.exibirInformacoes();
         System.out.println("Valor do Serviço R$: " + pet2.calcularComDesconto());
 
     System.out.println("\n pet3");
-    livro1.exibirInformacoes();
+    pet3.exibirInformacoes();
     System.out.println("Valor do Serviço R$: " + pet3.calcularComDesconto());
     System.out.println("Aplicação executada com sucesso");    
 
