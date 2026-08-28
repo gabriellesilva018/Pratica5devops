@@ -6,9 +6,9 @@ public class Main {
         System.out.println("=== PETSHOP DEVOPS ===");
 
         //CRIA O PET
-        Pet pet1 = new PET("Rex", "Cachorro", 5, 150.00);
-        Pet pet2 = new PET("Pandora", "Gata", 2, 100.00);
-        Pet pet3 = new PET("Tempestade", "Cavalo",7, 300.00);
+        Pet pet1 = new Pet("Rex", "Cachorro", 5, 150.00);
+        Pet pet2 = new Pet("Pandora", "Gata", 2, 100.00);
+        Pet pet3 = new Pet("Tempestade", "Cavalo",7, 300.00);
 
         System.out.println("\n pet1");
         livro1.exibirInformacoes();
