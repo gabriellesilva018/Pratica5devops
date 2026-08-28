@@ -8,7 +8,7 @@ public class Main {
         //CRIA O PET
         Pet Pet1 = new Pet("Rex", "Cachorro", 5, 150.00);
         Pet Pet2 = new Pet("Pandora", "Gata", 2, 100.00);
-        Pet pet3 = new Pet("Tempestade", "Cavalo",7, 300.00);
+        Pet Pet3 = new Pet("Tempestade", "Cavalo",7, 300.00);
 
         System.out.println("\n Pet1");
         Pet1.exibirInformacoes();
