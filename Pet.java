@@ -21,10 +21,10 @@ public class Pet {
 
     // METODO PARA EXIBIR INFORMAÇÕES
     public void exibirInformacoes(){
-        System.out.println("Titulo: " + nome);
-        System.out.println("Autor: " + especie);
-        System.out.println("Preço: " + idade);
-        System.out.println("Quantidade: " + ValorServico);
+        System.out.println("Nome: " + nome);
+        System.out.println("Especie: " + especie);
+        System.out.println("Idade: " + idade);
+        System.out.println("Valor do Serviço: " + ValorServico);
     }
 
     // METODO VALOR COM DESCONTO
