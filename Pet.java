@@ -12,9 +12,9 @@ public class Pet {
     // CRIA O CONSTRUTOR
 
     public Pet(String nome, String especie, int idade, double ValorSevico ){
-        this.titulo = nome;
-        this.autor = especie;
-        this.preco = idade;
+        this.nome = nome;
+        this.especie = especie;
+        this.idade = idade;
         this.ValorSevico = ValorServico;
 
     }
