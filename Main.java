@@ -21,7 +21,7 @@ public class Main {
 
     System.out.println("\n pet3");
     livro1.exibirInformacoes();
-    System.out.println("Valor do Serviço R$: " + pet3.calcularComDesconto()));
+    System.out.println("Valor do Serviço R$: " + pet3.calcularComDesconto());
     System.out.println("Aplicação executada com sucesso");    
 
     }
